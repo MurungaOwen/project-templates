@@ -17,7 +17,7 @@ MyWebApp/
 │   │   │   ├── index.jsp
 │   │   │   ├── user.jsp
 │   │   │   ├── WEB-INF/
-|   |   |   ├── views/
+|   |   |   ├── views/  # more like reusable components
 |   |   |   |    ├──header.jsp
 |   |   |   |    ├──footer.jsp
 │   │   │   ├── web.xml             # Servlet Configuration
